@@ -20,6 +20,11 @@ public class Main{
     System.out.println("In programming world \"Java\" is one of the most popular language");
     //printing backslash \
     System.out.println("We generally use Java\\C++\\Python in MNC's");
+    // for single line comment
+    /* for
+    multi 
+    line comments
+    */
 
 }
 }
